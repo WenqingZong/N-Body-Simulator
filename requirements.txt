@@ -1,0 +1,6 @@
+numpy==1.19.3
+PyOpenGL==3.1.5
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+PyQt5-stubs==5.14.2.2
+matplotlib==3.3.3
